@@ -26,8 +26,7 @@ This is an AI-powered nonsense generator featuring bots like:
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB (if needed)
-- **AI Integration:** GROQ API, Twilio (for fun voice bots)
+- **AI Integration:** GROQ API
 
 ## 🚀 Installation & Setup
 Want to host your own **TrashTalk AI**?
