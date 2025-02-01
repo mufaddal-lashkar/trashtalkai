@@ -15,8 +15,7 @@ export default function ChatBot() {
         complete(input)
     }
 
-    const placeholder = `Example input :-
-Bhai, meri height 5'10" hai, software engineer hoon, 20 LPA package hai. Ghar pe ek bada bangla aur Fortuner bhi hai. Mummy kehti hain ki mujhe toh raja beta jaisa rishta milega. Batao, kitna dahej milega?`
+    const sampleInput = `Bhai, meri height 5'10" hai, software engineer hoon, 20 LPA package hai. Ghar pe ek bada bangla aur Fortuner bhi hai. Mummy kehti hain ki mujhe toh raja beta jaisa rishta milega. Batao, kitna dahej milega?`
     return (
         <div className="bg-[#f2f2f2] text-[#333333] min-h-screen w-full pt-40 m-0">
             <h1 className="text-4xl font-bold mb-6 text-center">Shaadi Ka Hisab-Kitab Bot – The Ultimate Dowry Calculator</h1>
@@ -28,7 +27,9 @@ Bhai, meri height 5'10" hai, software engineer hoon, 20 LPA package hai. Ghar pe
                         setInput={setInput}
                         onSubmit={handleSubmit}
                         isLoading={isLoading}
-                        placeholder={placeholder}
+                        placeholder={`Example input :- 
+                            ${sampleInput}`}
+                        sampleInput={sampleInput}
                     />
                 </div>
                 <div className="w-full md:w-1/2">
