@@ -13,8 +13,6 @@ This is an AI-powered nonsense generator featuring bots like:
 - **Berozgari Calculator** – How unemployed are you? 😭
 - **Jugaad Finder** – Life hacks the desi way! 🛠️
 - **Kitna Paka Raha Hai?** – Boring talk detector 💤
-- **Papa Banega Crorepati?** – Startup idea evaluator 🏢
-- **Aunty 2.0** – The ultimate gossip bot 🗣️
 
 ## ⚡ Features
 ✅ **Witty AI Responses** – Pure sarcasm & desi humor 💡
@@ -59,7 +57,7 @@ Feel like adding another weird bot idea? PRs are welcome!
 ⚠️ **These bots are purely for entertainment purposes.** If you take them seriously, that’s on you. Also, **dowry is illegal**, so maybe check your ethics instead of your net worth. 😂
 
 ## 🏆 Credits & Creator
-Created with **sarcasm, caffeine, and questionable life choices** by **[Your Name]**. 
+Created with **sarcasm, caffeine, and questionable life choices** by **Mufaddal Lashkarwala**. 
 Connect with me on **[LinkedIn/Twitter/etc.]** 🚀
 
 ## ⭐ Show Some Love!
