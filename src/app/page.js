@@ -6,14 +6,14 @@ import Link from "next/link";
 export default function Home() {
 
   const bots = [
-    {
-      title: "Shaadi Ka Hisab Kitab - The Ultimate Dowry Calculator",
-      href: "/chatbot/shaadi-ka-hisab-kitab",
-      description:
-        `A hilariously exaggerated dowry calculator that roasts your "market value" while reminding you dowry is illegal!`,
-      // img: "../../../public/shaadi-ka-hisab-kitab.webp"
-      img: "https://www.pexels.com/photo/a-beautiful-bride-wearing-traditional-clothes-7651454/"
-    },
+    // {
+    //   title: "Shaadi Ka Hisab Kitab - The Ultimate Dowry Calculator",
+    //   href: "/chatbot/shaadi-ka-hisab-kitab",
+    //   description:
+    //     `A hilariously exaggerated dowry calculator that roasts your "market value" while reminding you dowry is illegal!`,
+    //   // img: "../../../public/shaadi-ka-hisab-kitab.webp"
+    //   img: "https://www.pexels.com/photo/a-beautiful-bride-wearing-traditional-clothes-7651454/"
+    // },
     {
       title: "Naukri Predictor – Job Destiny Bot",
       href: "/chatbot/naukri-predictor",

@@ -18,13 +18,13 @@ export default function Navbar () {
     
     
     const components = [
-        {
-          title: "Shaadi Ka Hisab Kitab - The Ultimate Dowry Calculator",
-          href: "/chatbot/shaadi-ka-hisab-kitab",
-          description:
-            `A hilariously exaggerated dowry calculator that roasts your "market value" while reminding you dowry is illegal!`,
-          img: "https://www.google.com/imgres?q=shadi&imgurl=https%3A%2F%2F3.imimg.com%2Fdata3%2FYW%2FER%2FMY-10777826%2Fshadi-nikah.jpg&imgrefurl=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fshadi-nikah-7422832788.html&docid=hln8y9yfeITfiM&tbnid=y6K7QXBBl7OWEM&vet=12ahUKEwi4qITRzaKLAxXmyTgGHf2fJH0QM3oECGgQAA..i&w=640&h=396&hcb=2&ved=2ahUKEwi4qITRzaKLAxXmyTgGHf2fJH0QM3oECGgQAA"
-        },
+        // {
+        //   title: "Shaadi Ka Hisab Kitab - The Ultimate Dowry Calculator",
+        //   href: "/chatbot/shaadi-ka-hisab-kitab",
+        //   description:
+        //     `A hilariously exaggerated dowry calculator that roasts your "market value" while reminding you dowry is illegal!`,
+        //   img: "https://www.google.com/imgres?q=shadi&imgurl=https%3A%2F%2F3.imimg.com%2Fdata3%2FYW%2FER%2FMY-10777826%2Fshadi-nikah.jpg&imgrefurl=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fshadi-nikah-7422832788.html&docid=hln8y9yfeITfiM&tbnid=y6K7QXBBl7OWEM&vet=12ahUKEwi4qITRzaKLAxXmyTgGHf2fJH0QM3oECGgQAA..i&w=640&h=396&hcb=2&ved=2ahUKEwi4qITRzaKLAxXmyTgGHf2fJH0QM3oECGgQAA"
+        // },
         {
           title: "Naukri Predictor – Job Destiny Bot",
           href: "/chatbot/naukri-predictor",
